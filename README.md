@@ -13,6 +13,9 @@ If you do not have matplotlib installed, please install it.
 
 run `python3 hw1.py`
 
+If you have any questions about running this program, please contact
+jennifer dot harper @ucdenver.edu or ping me on the CPBS Slack channel.
+
 ## Original Directions
 
 1.  Simulate the effect of rare events on accuracy and F-measure:
